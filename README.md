@@ -34,4 +34,15 @@ Save the script as image_resizer.py.
 # Bash:
 
 python image_resizer.py <anime_image.jpg> <anime_image.jpg>
+
+
+# Photos For Visual Appeal:
+
+# Old Image :-
+
+![newimage](https://github.com/Blacksujit/Image-Resizer/assets/148805811/3a5d4b07-b8d6-4348-9630-bda0951d45f2)
+
+
+# New Resized Image:-
  
+![anime](https://github.com/Blacksujit/Image-Resizer/assets/148805811/91815a57-cfa0-44b6-8ca6-5d773537c6a8)
