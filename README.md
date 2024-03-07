@@ -19,7 +19,7 @@ It utilizes OpenCV (cv2) for efficient image processing.
 # Requirements:
 
 *Python 3.x
-*OpenCV (cv2) - Install using pip install opencv-python
+*OpenCV (cv2)   - Install using pip install opencv-python
  
 # Installation:
 
