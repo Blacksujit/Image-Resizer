@@ -1,7 +1,7 @@
 
 # Title:
 
-Python Image Resizer with Compression
+# Python Image Resizer with Compression
 
 # Description:
 
@@ -25,16 +25,19 @@ It utilizes OpenCV (cv2) for efficient image processing.
 
 # Clone the repository.
 
-Install OpenCV: pip install opencv-python
+git clone https://github.com/Blacksujit/Image-Resizer.git
+
 
 # Usage:
 
-Save the script as image_resizer.py.
+Save the script as main.py.
 
 # Bash:
 
-python image_resizer.py <anime_image.jpg> <anime_image.jpg>
-
+Insall OpenCV:
+```
+pip install openctv-python
+```
 
 # Photos For Visual Appeal:
 
