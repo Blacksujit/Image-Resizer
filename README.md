@@ -36,7 +36,7 @@ Save the script as main.py.
 
 Insall OpenCV:
 ```
-pip install openctv-python
+pip install opencv-python
 ```
 
 # Photos For Visual Appeal:
